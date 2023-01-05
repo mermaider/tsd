@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+tox
+flake8
+mypy
+flask
+yt-dlp
